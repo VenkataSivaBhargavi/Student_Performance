@@ -331,3 +331,4 @@ gunicorn app:app
 6. Open the generated application URL to access the Student Performance Prediction system.
 
 **Note:** The deployment configuration is included in the project. A live deployment URL should be added after successful deployment.
+## Deployment URL : https://student-performance-yaj2.onrender.com
